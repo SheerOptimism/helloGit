@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: . FT_lib/DefaultBehavior.jar FT_lib/CountFileLines.jar 
+Main-Class: com.api.spi.StartTraverser
+
+

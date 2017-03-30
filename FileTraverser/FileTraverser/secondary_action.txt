@@ -1,0 +1,7 @@
+AverageFileSize.java has 61 lines.
+CountFileLines.java has 133 lines.
+DefaultBehavior.java has 59 lines.
+FileActions.java has 10 lines.
+FileTraverserService.java has 65 lines.
+StartTraverser.java has 24 lines.
+Test.java has 8 lines.
